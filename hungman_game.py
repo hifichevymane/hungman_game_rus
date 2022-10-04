@@ -161,3 +161,6 @@ while True:
         continue
     else:
         break
+
+
+# тест проект СЛАВА УКРАИНЕ
